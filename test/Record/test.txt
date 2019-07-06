@@ -1,0 +1,35 @@
+class的前置声明
+C++ 宏函数
+友元函数
+C++ inline 
+::作用域符
+预编译头文件的作用
+void func(int a,...)
+位运算 
+
+C++ interface
+virtual
+
+COM组件编程
+C++Windows线程
+IOCP
+dynamic_cast
+ASSERT
+sizeof()
+memcpy()
+__stdcall
+
+调试多线程程序
+状态机
+
+server和client字节对齐 
+visual studio 使用技巧
+调试技巧
+
+git
+面向对象编程
+
+
+1、创建自己的本地仓库
+2、找到发送函数，长度如何结构体
+
