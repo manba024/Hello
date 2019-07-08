@@ -32,4 +32,17 @@ git
 
 1、创建自己的本地仓库
 2、找到发送函数，长度如何结构体
+http://wiki.jikexueyuan.com/project/cplusplus-concurrency-action/
+
+
+7月：
+战术
+C++primer高级部分 *6
+面向对象编程
+*IOCP
+战略
+泰课boost	*2
+
+
+
 
