@@ -1,3 +1,1 @@
-﻿  Test.cpp
-  test.vcxproj -> F:\LocalWarehouse\Hello\test\Debug\test.exe
-  test.vcxproj -> F:\LocalWarehouse\Hello\test\Debug\test.pdb (Partial PDB)
+﻿LINK : fatal error LNK1168: 无法打开 F:\myCode\LocalWarehouse\Hello\test\Debug\test.exe 进行写入
